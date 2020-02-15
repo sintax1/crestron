@@ -7,7 +7,6 @@ import time
 import json
 import datetime
 from utils import num_map, set_list_value
-from conf import zone_to_button, source_to_button, control_to_button
 
 
 logging.basicConfig(

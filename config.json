@@ -1,0 +1,12 @@
+{
+    "name": "Crestron",
+    "version": "1",
+    "slug": "crestron",
+    "description": "Communicate with Crestron switch via crestnet",
+    "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
+    "startup": "before",
+    "boot": "auto",
+    "homeassistant_api": true,
+    "options": {},
+    "schema": {}
+}
